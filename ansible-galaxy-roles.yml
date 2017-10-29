@@ -1,2 +1,5 @@
 - src: "https://github.com/vkrajuch/ansible-package-install.git"
   name: ansible-packages-install
+
+- src: "https://github.com/vkrajuch/sshcopy.git"
+  name: sshcopy
