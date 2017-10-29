@@ -1,0 +1,2 @@
+- src: "https://github.com/vkrajuch/ansible-package-install.git"
+  name: ansible-packages-install
