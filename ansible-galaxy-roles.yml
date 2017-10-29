@@ -3,3 +3,6 @@
 
 - src: "https://github.com/vkrajuch/sshcopy.git"
   name: sshcopy
+
+- src: "https://github.com/vkrajuch/sudoers-config.git"
+  name: sudoers-config
